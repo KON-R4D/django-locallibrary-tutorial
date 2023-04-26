@@ -1,11 +1,11 @@
 # Django Local Library
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 Tutorial "Local Library" website written in Django.
 
 For detailed information about this project see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website).
 
 ## Overview
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
 
 The main features that have currently been implemented are:
@@ -19,7 +19,7 @@ The main features that have currently been implemented are:
 
 
 ## Quick Start
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 To get this project up and running locally on your computer:
 1. Set up the [Python development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment).
    We recommend using a Python virtual environment.
